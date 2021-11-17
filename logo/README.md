@@ -8,6 +8,6 @@
  
 Files : Adobe Illustrator, PDF, SVG (RGB/CMYK)
 
-<img src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText.png" data-canonical-src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText.png" width="200" height="200" />
+<img src="R-LadiesGlobal_RBG_online_LogoWithText.png" data-canonical-src="R-LadiesGlobal_RBG_online_LogoWithText.png" width="200" height="200" />
 
-<img src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" data-canonical-src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="500" height="170" />
+<img src="R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" data-canonical-src="R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="500" height="170" />
