@@ -9,3 +9,6 @@ Materials include:
  - [Roll-up templates](roll-up/)
  - [Logo files](logo/)
  - [File templates](file-templates/) (like word, pptx etc.)
+
+Official colour: #88398a (Purple) & #a7a9ac (Gray)
+Official font: Open Sans
