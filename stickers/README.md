@@ -9,3 +9,14 @@ There are two version of our hex sticker:
 - A `.psd` version which you can edit in Photoshop (if you do not have Photoshop but need edits, contact Bea). This one has a 3mm bleed which you can change: [hex-logo-with-text-3mmbleed.psd](https://github.com/rladies/starter-kit/blob/master/stickers/psd_files/hex-logo-with-text-3mmbleed.psd)
 
 There is also a `.psd` version of the template in case you want to use it with a different hex sticker: [rladies-text.psd](https://github.com/rladies/starter-kit/blob/master/stickers/psd_files/rladies-text-stickermule.psd)
+
+## Print Sticker
+
+There are severals options, the best is to check some local print company or some company that send stickers to your chapter.  Some options shared by Janani Ravi and Cosima Meyer:
+
+* [RedBubble](https://www.redbubble.com/shop/stickers)
+* http://moo.com
+* treehousestickers.com
+* stickerit.co
+* stickerapp.com
+* makestickers.com
