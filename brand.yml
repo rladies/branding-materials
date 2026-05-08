@@ -1,0 +1,113 @@
+meta:
+  name: RLadies+
+  link:
+    home: https://rladies.org
+    github: https://github.com/rladies
+
+logo:
+  images:
+    horizontal:
+      path: logos/logo-horizontal.svg
+      alt: "RLadies+ logo"
+    horizontal-white:
+      path: logos/logo-horizontal-white.svg
+      alt: "RLadies+ logo for dark backgrounds"
+    vertical:
+      path: logos/logo-vertical.svg
+      alt: "RLadies+ stacked logo"
+    vertical-white:
+      path: logos/logo-vertical-white.svg
+      alt: "RLadies+ stacked logo for dark backgrounds"
+    horizontal-charcoal:
+      path: logos/logo-horizontal-charcoal.svg
+      alt: "RLadies+ logo in charcoal"
+    horizontal-lavender:
+      path: logos/logo-horizontal-lavender.svg
+      alt: "RLadies+ logo in lavender white"
+    vertical-charcoal:
+      path: logos/logo-vertical-charcoal.svg
+      alt: "RLadies+ stacked logo in charcoal"
+    vertical-lavender:
+      path: logos/logo-vertical-lavender.svg
+      alt: "RLadies+ stacked logo in lavender white"
+    favicon:
+      path: logos/favicon-purple.svg
+      alt: "RLadies+ icon"
+  small:
+    light: favicon
+    dark: favicon
+  medium:
+    light: horizontal
+    dark: horizontal-white
+  large:
+    light: horizontal
+    dark: horizontal-white
+
+color:
+  palette:
+    purple: "#881ef9"
+    purple-light: "#a152f8"
+    purple-50: "#bb86f7"
+    purple-lighter: "#d4b9f5"
+    purple-dark: "#6b0fd4"
+    purple-darker: "#5009a8"
+    blue: "#146af9"
+    blue-75: "#4a8bf8"
+    blue-50: "#80acf6"
+    blue-25: "#b7ccf5"
+    rose: "#ff5b92"
+    rose-75: "#fb80ab"
+    rose-50: "#f6a4c3"
+    rose-25: "#f2c9dc"
+    charcoal: "#2f2f30"
+    charcoal-75: "#5f5f61"
+    charcoal-50: "#8e8e92"
+    charcoal-25: "#bebec3"
+    lavender: "#ededf4"
+    surface: "#f8f8fc"
+    surface-alt: "#f3f0fa"
+    muted: "#5d5f66"
+  foreground: charcoal
+  background: surface
+  primary: purple
+  secondary: blue
+  tertiary: rose
+  success: blue
+  info: blue
+  warning: rose
+  danger: rose
+  light: lavender
+  dark: charcoal
+  link: purple
+
+typography:
+  fonts:
+    - family: Poppins
+      source: google
+      weight: [300, 400, 500, 600, 700]
+      style: [normal, italic]
+    - family: Inconsolata
+      source: google
+  base:
+    family: Poppins
+    size: 1em
+    weight: 400
+    line-height: 1.6
+  headings:
+    family: Poppins
+    weight: 600
+    line-height: 1.4
+    color: charcoal
+  monospace:
+    family: Inconsolata
+    size: 0.9em
+  monospace-inline:
+    color: purple-dark
+    background-color: surface-alt
+  monospace-block:
+    background-color: surface-alt
+    line-height: 1.5
+  link:
+    weight: 400
+    decoration: underline
+    color: purple
